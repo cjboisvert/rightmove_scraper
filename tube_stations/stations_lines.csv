@@ -1,0 +1,380 @@
+station_id,latitude,longitude,name,zone,stepfree,stepfree_interchange,line,line_name
+500,51.5028,-0.2801,Acton Town,3.0,1,1,4,District Line
+500,51.5028,-0.2801,Acton Town,3.0,1,1,10,Piccadilly Line
+502,51.5143,-0.0755,Aldgate,1.0,0,0,3,Circle Line
+502,51.5143,-0.0755,Aldgate,1.0,0,0,8,Metropolitan Line
+503,51.5154,-0.0726,Aldgate East,1.0,0,1,4,District Line
+503,51.5154,-0.0726,Aldgate East,1.0,0,1,6,Hammersmith & City Line
+505,51.5407,-0.2997,Alperton,4.0,0,0,10,Piccadilly Line
+506,51.6736,-0.607,Amersham,10.0,1,1,8,Metropolitan Line
+507,51.5322,-0.1058,Angel,1.0,0,0,9,Northern Line
+508,51.5653,-0.1353,Archway,2.5,0,0,9,Northern Line
+509,51.6164,-0.1331,Arnos Grove,4.0,0,0,10,Piccadilly Line
+510,51.5586,-0.1059,Arsenal,2.0,0,0,10,Piccadilly Line
+511,51.5226,-0.1571,Baker Street,1.0,0,0,1,Bakerloo Line
+511,51.5226,-0.1571,Baker Street,1.0,0,0,3,Circle Line
+511,51.5226,-0.1571,Baker Street,1.0,0,0,6,Hammersmith & City Line
+511,51.5226,-0.1571,Baker Street,1.0,0,0,7,Jubilee Line
+511,51.5226,-0.1571,Baker Street,1.0,0,0,8,Metropolitan Line
+512,51.4431,-0.1525,Balham,3.0,0,0,9,Northern Line
+513,51.5133,-0.0886,Bank,1.0,0,0,2,Central Line
+513,51.5133,-0.0886,Bank,1.0,0,0,3,Circle Line
+513,51.5133,-0.0886,Bank,1.0,0,0,4,District Line
+513,51.5133,-0.0886,Bank,1.0,0,0,9,Northern Line
+513,51.5133,-0.0886,Bank,1.0,0,0,12,Waterloo & City Line
+501,51.5204,-0.0979,Barbican,1.0,0,0,3,Circle Line
+501,51.5204,-0.0979,Barbican,1.0,0,0,6,Hammersmith & City Line
+501,51.5204,-0.0979,Barbican,1.0,0,0,8,Metropolitan Line
+514,51.5396,0.081,Barking,4.0,1,1,4,District Line
+514,51.5396,0.081,Barking,4.0,1,1,6,Hammersmith & City Line
+515,51.5856,0.0887,Barkingside,5.0,0,0,2,Central Line
+516,51.4905,-0.2139,Barons Court,2.0,0,1,4,District Line
+516,51.4905,-0.2139,Barons Court,2.0,0,1,10,Piccadilly Line
+517,51.5121,-0.1879,Bayswater,1.0,0,0,3,Circle Line
+517,51.5121,-0.1879,Bayswater,1.0,0,0,4,District Line
+518,51.5403,0.127,Becontree,5.0,0,0,4,District Line
+519,51.5504,-0.1642,Belsize Park,2.0,0,0,9,Northern Line
+787,51.4979,-0.0637,Bermondsey,2.0,1,1,7,Jubilee Line
+520,51.527,-0.0549,Bethnal Green,2.0,0,0,2,Central Line
+521,51.512,-0.1031,Blackfriars,1.0,1,1,3,Circle Line
+521,51.512,-0.1031,Blackfriars,1.0,1,1,4,District Line
+522,51.5867,-0.0417,Blackhorse Road,3.0,0,0,11,Victoria Line
+524,51.5142,-0.1494,Bond Street,1.0,1,1,2,Central Line
+524,51.5142,-0.1494,Bond Street,1.0,1,1,7,Jubilee Line
+525,51.5011,-0.0943,Borough,1.0,0,0,9,Northern Line
+526,51.4956,-0.325,Boston Manor,4.0,0,0,10,Piccadilly Line
+527,51.6071,-0.1243,Bounds Green,3.5,0,0,10,Piccadilly Line
+528,51.5269,-0.0247,Bow Road,2.0,0,0,4,District Line
+528,51.5269,-0.0247,Bow Road,2.0,0,0,6,Hammersmith & City Line
+529,51.5766,-0.2136,Brent Cross,3.0,0,0,9,Northern Line
+778,51.4627,-0.1145,Brixton,2.0,1,1,11,Victoria Line
+530,51.5248,-0.0119,Bromley-By-Bow,2.5,1,1,4,District Line
+530,51.5248,-0.0119,Bromley-By-Bow,2.5,1,1,6,Hammersmith & City Line
+531,51.6266,0.0471,Buckhurst Hill,5.0,1,1,2,Central Line
+532,51.6028,-0.2641,Burnt Oak,4.0,0,0,9,Northern Line
+534,51.5481,-0.1188,Caledonian Road,2.0,1,1,10,Piccadilly Line
+535,51.5392,-0.1426,Camden Town,2.0,0,1,9,Northern Line
+788,51.4982,-0.0502,Canada Water,2.0,1,1,7,Jubilee Line
+852,51.5051,-0.0209,Canary Wharf,2.0,1,1,7,Jubilee Line
+884,51.5147,0.0082,Canning Town,3.0,1,1,7,Jubilee Line
+536,51.5113,-0.0904,Cannon Street,1.0,0,0,3,Circle Line
+536,51.5113,-0.0904,Cannon Street,1.0,0,0,4,District Line
+537,51.6078,-0.2947,Canons Park,5.0,0,0,7,Jubilee Line
+539,51.6679,-0.561,Chalfont & Latimer,9.0,1,1,8,Metropolitan Line
+540,51.5441,-0.1538,Chalk Farm,2.0,0,0,9,Northern Line
+541,51.5185,-0.1111,Chancery Lane,1.0,0,0,2,Central Line
+718,51.508,-0.1247,Charing Cross,1.0,0,0,1,Bakerloo Line
+718,51.508,-0.1247,Charing Cross,1.0,0,0,9,Northern Line
+543,51.7052,-0.611,Chesham,10.0,1,1,8,Metropolitan Line
+544,51.6177,0.0755,Chigwell,5.0,0,0,2,Central Line
+545,51.4946,-0.2678,Chiswick Park,3.0,0,0,4,District Line
+546,51.6543,-0.5183,Chorleywood,8.0,1,1,8,Metropolitan Line
+547,51.4618,-0.1384,Clapham Common,2.0,0,0,9,Northern Line
+548,51.4649,-0.1299,Clapham North,2.0,0,0,9,Northern Line
+549,51.4527,-0.148,Clapham South,2.5,0,0,9,Northern Line
+550,51.6517,-0.1496,Cockfosters,5.0,1,1,10,Piccadilly Line
+551,51.5955,-0.2502,Colindale,4.0,0,0,9,Northern Line
+552,51.418,-0.1778,Colliers Wood,3.0,0,0,9,Northern Line
+553,51.5129,-0.1243,Covent Garden,1.0,0,0,10,Piccadilly Line
+554,51.647,-0.4412,Croxley,7.0,0,0,8,Metropolitan Line
+555,51.5443,0.1655,Dagenham East,5.0,0,0,4,District Line
+556,51.5417,0.1469,Dagenham Heathway,5.0,0,0,4,District Line
+557,51.6455,0.0838,Debden,6.0,0,0,2,Central Line
+558,51.552,-0.2387,Dollis Hill,3.0,0,0,7,Jubilee Line
+560,51.5152,-0.3017,Ealing Broadway,3.0,1,1,2,Central Line
+560,51.5152,-0.3017,Ealing Broadway,3.0,1,1,4,District Line
+561,51.5101,-0.2882,Ealing Common,3.0,0,0,4,District Line
+561,51.5101,-0.2882,Ealing Common,3.0,0,0,10,Piccadilly Line
+562,51.492,-0.1973,Earl's Court,1.5,1,1,4,District Line
+562,51.492,-0.1973,Earl's Court,1.5,1,1,10,Piccadilly Line
+563,51.5168,-0.2474,East Acton,2.0,0,0,2,Central Line
+565,51.5874,-0.165,East Finchley,3.0,0,0,9,Northern Line
+566,51.5394,0.0518,East Ham,3.5,1,1,4,District Line
+566,51.5394,0.0518,East Ham,3.5,1,1,6,Hammersmith & City Line
+567,51.4586,-0.2112,East Putney,2.5,0,0,4,District Line
+564,51.5765,-0.397,Eastcote,5.0,0,0,8,Metropolitan Line
+564,51.5765,-0.397,Eastcote,5.0,0,0,10,Piccadilly Line
+568,51.6137,-0.275,Edgware,5.0,1,1,9,Northern Line
+569,51.5199,-0.1679,Edgware Road,1.0,0,0,1,Bakerloo Line
+569,51.5199,-0.1679,Edgware Road,1.0,0,0,3,Circle Line
+569,51.5199,-0.1679,Edgware Road,1.0,0,0,4,District Line
+569,51.5199,-0.1679,Edgware Road,1.0,0,0,6,Hammersmith & City Line
+570,51.4943,-0.1001,Elephant & Castle,1.5,0,0,1,Bakerloo Line
+570,51.4943,-0.1001,Elephant & Castle,1.5,0,0,9,Northern Line
+571,51.5496,0.1977,Elm Park,6.0,1,1,4,District Line
+542,51.5074,-0.1223,Embankment,1.0,0,0,1,Bakerloo Line
+542,51.5074,-0.1223,Embankment,1.0,0,0,3,Circle Line
+542,51.5074,-0.1223,Embankment,1.0,0,0,4,District Line
+542,51.5074,-0.1223,Embankment,1.0,0,0,9,Northern Line
+572,51.6937,0.1139,Epping,6.0,1,1,2,Central Line
+574,51.5282,-0.1337,Euston,1.0,0,0,9,Northern Line
+574,51.5282,-0.1337,Euston,1.0,0,0,11,Victoria Line
+575,51.526,-0.1359,Euston Square,1.0,0,0,3,Circle Line
+575,51.526,-0.1359,Euston Square,1.0,0,0,6,Hammersmith & City Line
+575,51.526,-0.1359,Euston Square,1.0,0,0,8,Metropolitan Line
+576,51.596,0.0912,Fairlop,5.0,0,0,2,Central Line
+577,51.5203,-0.1053,Farringdon,1.0,1,1,3,Circle Line
+577,51.5203,-0.1053,Farringdon,1.0,1,1,6,Hammersmith & City Line
+577,51.5203,-0.1053,Farringdon,1.0,1,1,8,Metropolitan Line
+578,51.6012,-0.1932,Finchley Central,4.0,1,1,9,Northern Line
+579,51.5472,-0.1803,Finchley Road,2.0,0,1,7,Jubilee Line
+579,51.5472,-0.1803,Finchley Road,2.0,0,1,8,Metropolitan Line
+580,51.5642,-0.1065,Finsbury Park,2.0,1,1,10,Piccadilly Line
+580,51.5642,-0.1065,Finsbury Park,2.0,1,1,11,Victoria Line
+581,51.4804,-0.195,Fulham Broadway,2.0,1,1,4,District Line
+582,51.5765,0.0663,Gants Hill,4.0,0,0,2,Central Line
+583,51.4945,-0.1829,Gloucester Road,1.0,0,0,3,Circle Line
+583,51.4945,-0.1829,Gloucester Road,1.0,0,0,4,District Line
+583,51.4945,-0.1829,Gloucester Road,1.0,0,0,10,Piccadilly Line
+584,51.5724,-0.1941,Golders Green,3.0,1,1,9,Northern Line
+585,51.5018,-0.2267,Goldhawk Road,2.0,0,0,3,Circle Line
+585,51.5018,-0.2267,Goldhawk Road,2.0,0,0,6,Hammersmith & City Line
+586,51.5205,-0.1347,Goodge Street,1.0,0,0,9,Northern Line
+587,51.6132,0.0923,Grange Hill,5.0,0,0,2,Central Line
+588,51.5238,-0.1439,Great Portland Street,1.0,0,0,3,Circle Line
+588,51.5238,-0.1439,Great Portland Street,1.0,0,0,6,Hammersmith & City Line
+588,51.5238,-0.1439,Great Portland Street,1.0,0,0,8,Metropolitan Line
+590,51.5067,-0.1428,Green Park,1.0,1,1,7,Jubilee Line
+590,51.5067,-0.1428,Green Park,1.0,1,1,10,Piccadilly Line
+590,51.5067,-0.1428,Green Park,1.0,1,1,11,Victoria Line
+589,51.5423,-0.3456,Greenford,4.0,1,1,2,Central Line
+591,51.4915,-0.2754,Gunnersbury,3.0,0,0,4,District Line
+592,51.603,0.0933,Hainault,5.0,1,1,2,Central Line
+593,51.4936,-0.2251,Hammersmith,2.0,1,1,3,Circle Line
+593,51.4936,-0.2251,Hammersmith,2.0,1,1,4,District Line
+593,51.4936,-0.2251,Hammersmith,2.0,1,1,6,Hammersmith & City Line
+593,51.4936,-0.2251,Hammersmith,2.0,1,1,10,Piccadilly Line
+594,51.5568,-0.178,Hampstead,2.5,0,0,9,Northern Line
+595,51.5302,-0.2933,Hanger Lane,3.0,0,0,2,Central Line
+596,51.5362,-0.2575,Harlesden,3.0,0,0,1,Bakerloo Line
+597,51.5925,-0.3351,Harrow & Wealdstone,5.0,1,1,1,Bakerloo Line
+598,51.5793,-0.3366,Harrow-on-the-Hill,5.0,0,1,8,Metropolitan Line
+779,51.4669,-0.4227,Hatton Cross,5.5,0,0,10,Piccadilly Line
+781,51.4598,-0.4476,Heathrow Terminal 4,6.0,1,1,10,Piccadilly Line
+783,51.4723,-0.488,Heathrow Terminal 5,6.0,1,1,10,Piccadilly Line
+780,51.4713,-0.4524,Heathrow Terminals 123,6.0,1,1,10,Piccadilly Line
+601,51.5829,-0.2259,Hendon Central,3.5,1,1,9,Northern Line
+602,51.6503,-0.1943,High Barnet,5.0,1,1,9,Northern Line
+605,51.5009,-0.1925,High Street Kensington,1.0,0,1,3,Circle Line
+605,51.5009,-0.1925,High Street Kensington,1.0,0,1,4,District Line
+603,51.546,-0.104,Highbury & Islington,2.0,0,0,11,Victoria Line
+604,51.5777,-0.1458,Highgate,3.0,0,0,9,Northern Line
+606,51.5538,-0.4499,Hillingdon,6.0,1,1,8,Metropolitan Line
+606,51.5538,-0.4499,Hillingdon,6.0,1,1,10,Piccadilly Line
+607,51.5174,-0.12,Holborn,1.0,0,0,2,Central Line
+607,51.5174,-0.12,Holborn,1.0,0,0,10,Piccadilly Line
+608,51.5075,-0.206,Holland Park,2.0,0,0,2,Central Line
+609,51.5526,-0.1132,Holloway Road,2.0,0,0,10,Piccadilly Line
+610,51.5539,0.2184,Hornchurch,6.0,0,0,4,District Line
+611,51.4713,-0.3665,Hounslow Central,4.0,0,0,10,Piccadilly Line
+612,51.4733,-0.3564,Hounslow East,4.0,1,1,10,Piccadilly Line
+613,51.4734,-0.3855,Hounslow West,5.0,1,1,10,Piccadilly Line
+614,51.5027,-0.1527,Hyde Park Corner,1.0,0,0,10,Piccadilly Line
+615,51.5619,-0.4421,Ickenham,6.0,0,0,8,Metropolitan Line
+615,51.5619,-0.4421,Ickenham,6.0,0,0,10,Piccadilly Line
+616,51.4884,-0.1053,Kennington,2.0,0,1,9,Northern Line
+617,51.5304,-0.225,Kensal Green,2.0,0,0,1,Bakerloo Line
+618,51.4983,-0.2106,Kensington (Olympia),2.0,1,1,4,District Line
+619,51.5507,-0.1402,Kentish Town,2.0,0,0,9,Northern Line
+620,51.5816,-0.3162,Kenton,4.0,0,0,1,Bakerloo Line
+621,51.477,-0.285,Kew Gardens,3.5,1,1,4,District Line
+622,51.5471,-0.2047,Kilburn,2.0,1,1,7,Jubilee Line
+623,51.5351,-0.1939,Kilburn Park,2.0,0,0,1,Bakerloo Line
+625,51.5308,-0.1238,King's Cross St. Pancras,1.0,1,1,3,Circle Line
+625,51.5308,-0.1238,King's Cross St. Pancras,1.0,1,1,6,Hammersmith & City Line
+625,51.5308,-0.1238,King's Cross St. Pancras,1.0,1,1,8,Metropolitan Line
+625,51.5308,-0.1238,King's Cross St. Pancras,1.0,1,1,9,Northern Line
+625,51.5308,-0.1238,King's Cross St. Pancras,1.0,1,1,10,Piccadilly Line
+625,51.5308,-0.1238,King's Cross St. Pancras,1.0,1,1,11,Victoria Line
+624,51.5846,-0.2786,Kingsbury,4.0,1,1,7,Jubilee Line
+626,51.5015,-0.1607,Knightsbridge,1.0,0,0,10,Piccadilly Line
+627,51.5172,-0.2107,Ladbroke Grove,2.0,0,0,3,Circle Line
+627,51.5172,-0.2107,Ladbroke Grove,2.0,0,0,6,Hammersmith & City Line
+628,51.4991,-0.1115,Lambeth North,1.0,0,0,1,Bakerloo Line
+629,51.5119,-0.1756,Lancaster Gate,1.0,0,0,2,Central Line
+630,51.5139,-0.2172,Latimer Road,2.0,0,0,3,Circle Line
+630,51.5139,-0.2172,Latimer Road,2.0,0,0,6,Hammersmith & City Line
+631,51.5113,-0.1281,Leicester Square,1.0,0,0,9,Northern Line
+631,51.5113,-0.1281,Leicester Square,1.0,0,0,10,Piccadilly Line
+632,51.5566,-0.0053,Leyton,3.0,0,0,2,Central Line
+633,51.5683,0.0083,Leytonstone,3.5,0,0,2,Central Line
+634,51.5178,-0.0823,Liverpool Street,1.0,0,0,2,Central Line
+634,51.5178,-0.0823,Liverpool Street,1.0,0,0,3,Circle Line
+634,51.5178,-0.0823,Liverpool Street,1.0,0,0,6,Hammersmith & City Line
+634,51.5178,-0.0823,Liverpool Street,1.0,0,0,8,Metropolitan Line
+635,51.5052,-0.0864,London Bridge,1.0,1,1,7,Jubilee Line
+635,51.5052,-0.0864,London Bridge,1.0,1,1,9,Northern Line
+636,51.6412,0.0558,Loughton,6.0,0,0,2,Central Line
+637,51.53,-0.1854,Maida Vale,2.0,0,0,1,Bakerloo Line
+638,51.5712,-0.0958,Manor House,2.5,0,0,10,Piccadilly Line
+639,51.5122,-0.094,Mansion House,1.0,0,0,3,Circle Line
+639,51.5122,-0.094,Mansion House,1.0,0,0,4,District Line
+640,51.5136,-0.1586,Marble Arch,1.0,0,0,2,Central Line
+641,51.5225,-0.1631,Marylebone,1.0,0,0,1,Bakerloo Line
+642,51.5249,-0.0332,Mile End,2.0,0,1,2,Central Line
+642,51.5249,-0.0332,Mile End,2.0,0,1,4,District Line
+642,51.5249,-0.0332,Mile End,2.0,0,1,6,Hammersmith & City Line
+643,51.6082,-0.2103,Mill Hill East,4.0,1,1,9,Northern Line
+646,51.6294,-0.432,Moor Park,6.5,0,0,8,Metropolitan Line
+645,51.5186,-0.0886,Moorgate,1.0,0,0,3,Circle Line
+645,51.5186,-0.0886,Moorgate,1.0,0,0,6,Hammersmith & City Line
+645,51.5186,-0.0886,Moorgate,1.0,0,0,8,Metropolitan Line
+645,51.5186,-0.0886,Moorgate,1.0,0,0,9,Northern Line
+647,51.4022,-0.1948,Morden,4.0,1,1,9,Northern Line
+648,51.5342,-0.1387,Mornington Crescent,2.0,0,0,9,Northern Line
+649,51.5542,-0.2503,Neasden,3.0,0,0,7,Jubilee Line
+650,51.5756,0.0899,Newbury Park,4.0,1,1,2,Central Line
+653,51.5237,-0.2597,North Acton,2.5,0,0,2,Central Line
+654,51.5175,-0.2887,North Ealing,3.0,0,0,10,Piccadilly Line
+789,51.5005,0.0039,North Greenwich,2.5,1,1,7,Jubilee Line
+656,51.5846,-0.3626,North Harrow,5.0,0,0,8,Metropolitan Line
+659,51.5621,-0.3034,North Wembley,4.0,0,0,1,Bakerloo Line
+655,51.4995,-0.3142,Northfields,3.0,0,0,10,Piccadilly Line
+657,51.5483,-0.3687,Northolt,5.0,0,0,2,Central Line
+660,51.5784,-0.3184,Northwick Park,4.0,0,1,8,Metropolitan Line
+661,51.6111,-0.424,Northwood,6.0,0,0,8,Metropolitan Line
+662,51.6004,-0.4092,Northwood Hills,6.0,0,0,8,Metropolitan Line
+663,51.5094,-0.1967,Notting Hill Gate,1.5,0,0,2,Central Line
+663,51.5094,-0.1967,Notting Hill Gate,1.5,0,0,3,Circle Line
+663,51.5094,-0.1967,Notting Hill Gate,1.5,0,0,4,District Line
+664,51.6476,-0.1318,Oakwood,5.0,1,1,10,Piccadilly Line
+665,51.5263,-0.0873,Old Street,1.0,0,0,9,Northern Line
+667,51.4813,-0.3522,Osterley,4.0,0,0,10,Piccadilly Line
+668,51.4819,-0.113,Oval,2.0,0,0,9,Northern Line
+669,51.515,-0.1415,Oxford Circus,1.0,0,0,1,Bakerloo Line
+669,51.515,-0.1415,Oxford Circus,1.0,0,0,2,Central Line
+669,51.515,-0.1415,Oxford Circus,1.0,0,0,11,Victoria Line
+670,51.5154,-0.1755,Paddington,1.0,0,0,1,Bakerloo Line
+670,51.5154,-0.1755,Paddington,1.0,0,0,3,Circle Line
+670,51.5154,-0.1755,Paddington,1.0,0,0,4,District Line
+670,51.5154,-0.1755,Paddington,1.0,0,0,6,Hammersmith & City Line
+671,51.527,-0.2841,Park Royal,3.0,0,0,10,Piccadilly Line
+672,51.4753,-0.2011,Parsons Green,2.0,0,0,4,District Line
+673,51.5366,-0.3232,Perivale,4.0,0,0,2,Central Line
+674,51.5098,-0.1342,Piccadilly Circus,1.0,0,0,1,Bakerloo Line
+674,51.5098,-0.1342,Piccadilly Circus,1.0,0,0,10,Piccadilly Line
+776,51.4893,-0.1334,Pimlico,1.0,0,0,11,Victoria Line
+675,51.5926,-0.3805,Pinner,5.0,1,1,8,Metropolitan Line
+676,51.5313,0.0172,Plaistow,3.0,0,0,4,District Line
+676,51.5313,0.0172,Plaistow,3.0,0,0,6,Hammersmith & City Line
+677,51.572,-0.2954,Preston Road,4.0,0,0,8,Metropolitan Line
+678,51.4682,-0.2089,Putney Bridge,2.0,0,0,4,District Line
+680,51.5341,-0.2047,Queen's Park,2.0,0,0,1,Bakerloo Line
+679,51.5942,-0.2861,Queensbury,4.0,0,0,7,Jubilee Line
+681,51.5107,-0.1877,Queensway,1.0,0,0,2,Central Line
+682,51.4942,-0.2359,Ravenscourt Park,2.0,0,0,4,District Line
+683,51.5753,-0.3714,Rayners Lane,5.0,0,1,8,Metropolitan Line
+683,51.5753,-0.3714,Rayners Lane,5.0,0,1,10,Piccadilly Line
+684,51.5763,0.0454,Redbridge,4.0,0,0,2,Central Line
+685,51.5234,-0.1466,Regent's Park,1.0,0,0,1,Bakerloo Line
+686,51.4633,-0.3013,Richmond,4.0,1,1,4,District Line
+687,51.6404,-0.4733,Rickmansworth,7.0,0,0,8,Metropolitan Line
+688,51.6171,0.0439,Roding Valley,5.0,1,1,2,Central Line
+690,51.519,-0.188,Royal Oak,2.0,0,0,3,Circle Line
+690,51.519,-0.188,Royal Oak,2.0,0,0,6,Hammersmith & City Line
+691,51.5715,-0.4213,Ruislip,6.0,0,0,8,Metropolitan Line
+691,51.5715,-0.4213,Ruislip,6.0,0,0,10,Piccadilly Line
+692,51.5606,-0.4103,Ruislip Gardens,5.0,0,0,2,Central Line
+693,51.5732,-0.4125,Ruislip Manor,6.0,0,0,8,Metropolitan Line
+693,51.5732,-0.4125,Ruislip Manor,6.0,0,0,10,Piccadilly Line
+694,51.523,-0.1244,Russell Square,1.0,0,0,10,Piccadilly Line
+698,51.5822,-0.0749,Seven Sisters,3.0,0,0,11,Victoria Line
+700,51.5046,-0.2187,Shepherd's Bush,2.0,0,0,2,Central Line
+775,51.50583,-0.22639,Shepherd's Bush Market,2.0,0,0,3,Circle Line
+775,51.50583,-0.22639,Shepherd's Bush Market,2.0,0,0,6,Hammersmith & City Line
+702,51.4924,-0.1565,Sloane Square,1.0,0,0,3,Circle Line
+702,51.4924,-0.1565,Sloane Square,1.0,0,0,4,District Line
+703,51.5808,0.0216,Snaresbrook,4.0,0,0,2,Central Line
+704,51.5011,-0.3072,South Ealing,3.0,0,0,10,Piccadilly Line
+707,51.5646,-0.3521,South Harrow,5.0,0,0,10,Piccadilly Line
+708,51.4941,-0.1738,South Kensington,1.0,0,0,3,Circle Line
+708,51.4941,-0.1738,South Kensington,1.0,0,0,4,District Line
+708,51.4941,-0.1738,South Kensington,1.0,0,0,10,Piccadilly Line
+709,51.5701,-0.3081,South Kenton,4.0,0,0,1,Bakerloo Line
+710,51.5569,-0.3988,South Ruislip,5.0,0,0,2,Central Line
+711,51.4154,-0.1919,South Wimbledon,3.5,0,0,9,Northern Line
+712,51.5917,0.0275,South Woodford,4.0,1,1,2,Central Line
+705,51.4454,-0.2066,Southfields,3.0,1,1,4,District Line
+706,51.6322,-0.128,Southgate,4.0,0,0,10,Piccadilly Line
+784,51.501,-0.1052,Southwark,1.0,1,1,7,Jubilee Line
+695,51.4994,-0.1335,St. James's Park,1.0,0,0,3,Circle Line
+695,51.4994,-0.1335,St. James's Park,1.0,0,0,4,District Line
+696,51.5347,-0.174,St. John's Wood,2.0,0,0,7,Jubilee Line
+697,51.5146,-0.0973,St. Paul's,1.0,0,0,2,Central Line
+713,51.495,-0.2459,Stamford Brook,2.0,0,0,4,District Line
+714,51.6194,-0.3028,Stanmore,5.0,1,1,7,Jubilee Line
+715,51.5221,-0.047,Stepney Green,2.0,0,0,4,District Line
+715,51.5221,-0.047,Stepney Green,2.0,0,0,6,Hammersmith & City Line
+716,51.4723,-0.123,Stockwell,2.0,0,1,9,Northern Line
+716,51.4723,-0.123,Stockwell,2.0,0,1,11,Victoria Line
+717,51.5439,-0.2759,Stonebridge Park,3.0,0,0,1,Bakerloo Line
+719,51.5416,-0.0042,Stratford,3.0,1,1,2,Central Line
+719,51.5416,-0.0042,Stratford,3.0,1,1,7,Jubilee Line
+720,51.5569,-0.3366,Sudbury Hill,4.0,0,0,10,Piccadilly Line
+721,51.5507,-0.3156,Sudbury Town,4.0,1,1,10,Piccadilly Line
+723,51.5432,-0.1738,Swiss Cottage,2.0,0,0,7,Jubilee Line
+724,51.5111,-0.1141,Temple,1.0,0,0,3,Circle Line
+724,51.5111,-0.1141,Temple,1.0,0,0,4,District Line
+725,51.6717,0.1033,Theydon Bois,6.0,0,0,2,Central Line
+726,51.4361,-0.1598,Tooting Bec,3.0,0,0,9,Northern Line
+727,51.4275,-0.168,Tooting Broadway,3.0,0,0,9,Northern Line
+728,51.5165,-0.131,Tottenham Court Road,1.0,1,1,2,Central Line
+728,51.5165,-0.131,Tottenham Court Road,1.0,1,1,9,Northern Line
+729,51.5882,-0.0594,Tottenham Hale,3.0,1,1,11,Victoria Line
+730,51.6302,-0.1791,Totteridge & Whetstone,4.0,0,0,9,Northern Line
+731,51.5098,-0.0766,Tower Hill,1.0,1,1,3,Circle Line
+731,51.5098,-0.0766,Tower Hill,1.0,1,1,4,District Line
+733,51.5567,-0.1374,Tufnell Park,2.0,0,0,9,Northern Line
+734,51.4951,-0.2547,Turnham Green,2.5,0,0,4,District Line
+735,51.5904,-0.1028,Turnpike Lane,3.0,0,0,10,Piccadilly Line
+736,51.559,0.251,Upminster,6.0,1,1,4,District Line
+737,51.5582,0.2343,Upminster Bridge,6.0,0,0,4,District Line
+738,51.5385,0.1014,Upney,4.0,1,1,4,District Line
+739,51.5352,0.0343,Upton Park,3.0,0,0,4,District Line
+739,51.5352,0.0343,Upton Park,3.0,0,0,6,Hammersmith & City Line
+740,51.5463,-0.4786,Uxbridge,6.0,1,1,8,Metropolitan Line
+740,51.5463,-0.4786,Uxbridge,6.0,1,1,10,Piccadilly Line
+777,51.4861,-0.1253,Vauxhall,1.5,1,1,11,Victoria Line
+741,51.4965,-0.1447,Victoria,1.0,1,1,3,Circle Line
+741,51.4965,-0.1447,Victoria,1.0,1,1,4,District Line
+741,51.4965,-0.1447,Victoria,1.0,1,1,11,Victoria Line
+742,51.583,-0.0195,Walthamstow Central,3.0,0,0,11,Victoria Line
+743,51.5775,0.0288,Wanstead,4.0,0,0,2,Central Line
+745,51.5247,-0.1384,Warren Street,1.0,0,0,9,Northern Line
+745,51.5247,-0.1384,Warren Street,1.0,0,0,11,Victoria Line
+746,51.5235,-0.1835,Warwick Avenue,2.0,0,0,1,Bakerloo Line
+747,51.5036,-0.1143,Waterloo,1.0,1,1,1,Bakerloo Line
+747,51.5036,-0.1143,Waterloo,1.0,1,1,7,Jubilee Line
+747,51.5036,-0.1143,Waterloo,1.0,1,1,9,Northern Line
+747,51.5036,-0.1143,Waterloo,1.0,1,1,12,Waterloo & City Line
+748,51.6573,-0.4177,Watford,8.0,0,0,8,Metropolitan Line
+751,51.5519,-0.2963,Wembley Central,4.0,1,1,1,Bakerloo Line
+752,51.5635,-0.2795,Wembley Park,4.0,1,1,7,Jubilee Line
+752,51.5635,-0.2795,Wembley Park,4.0,1,1,8,Metropolitan Line
+753,51.518,-0.2809,West Acton,3.0,0,0,2,Central Line
+755,51.4872,-0.1953,West Brompton,2.0,0,0,4,District Line
+756,51.6095,-0.1883,West Finchley,4.0,1,1,9,Northern Line
+757,51.5287,0.0056,West Ham,3.0,1,1,4,District Line
+757,51.5287,0.0056,West Ham,3.0,1,1,6,Hammersmith & City Line
+757,51.5287,0.0056,West Ham,3.0,1,1,7,Jubilee Line
+758,51.5469,-0.1906,West Hampstead,2.0,0,0,7,Jubilee Line
+759,51.5795,-0.3533,West Harrow,5.0,0,0,8,Metropolitan Line
+760,51.4907,-0.2065,West Kensington,2.0,0,0,4,District Line
+762,51.5696,-0.4376,West Ruislip,6.0,0,0,2,Central Line
+754,51.521,-0.2011,Westbourne Park,2.0,0,0,3,Circle Line
+754,51.521,-0.2011,Westbourne Park,2.0,0,0,6,Hammersmith & City Line
+761,51.501,-0.1254,Westminster,1.0,1,1,3,Circle Line
+761,51.501,-0.1254,Westminster,1.0,1,1,4,District Line
+761,51.501,-0.1254,Westminster,1.0,1,1,7,Jubilee Line
+764,51.512,-0.2239,White City,2.0,0,0,2,Central Line
+763,51.5194,-0.0612,Whitechapel,2.0,0,0,4,District Line
+763,51.5194,-0.0612,Whitechapel,2.0,0,0,6,Hammersmith & City Line
+765,51.5492,-0.2215,Willesden Green,2.5,0,0,7,Jubilee Line
+766,51.5326,-0.2478,Willesden Junction,3.0,1,1,1,Bakerloo Line
+767,51.4214,-0.2064,Wimbledon,3.0,1,1,4,District Line
+768,51.4343,-0.1992,Wimbledon Park,3.0,0,0,4,District Line
+770,51.5975,-0.1097,Wood Green,3.0,0,0,10,Piccadilly Line
+599,51.5097972,-0.22417,Wood Lane,2.0,0,0,3,Circle Line
+599,51.5097972,-0.22417,Wood Lane,2.0,0,0,6,Hammersmith & City Line
+769,51.607,0.0341,Woodford,4.0,1,1,2,Central Line
+771,51.6179,-0.1856,Woodside Park,4.0,1,1,9,Northern Line
