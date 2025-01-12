@@ -1,24 +1,29 @@
-# Rightmove Scraper
+# Rightmove scraper
 
-This repository contains a web scraper for extracting property listings from Rightmove.
+This repository contains a Python web scraper based on Selenium for extracting property listings from Rightmove. 
 
-# Overview
+The code is specifically tailored for buying properties in London, but can be easily adapted to search for other places or rental properties as well.
 
-This repository contains a Python script for automating property searches on Rightmove, specifically tailored for buying properties. For a quick start and setup instructions, please refer to the README.md file included in the repository.
+## Overview
 
-The scraper allows users to search across multiple locations simultaneously and is fully customizable based on criteria like:
+### Benefits
 
-- Location
+- Save time by automating property searches across multiple locations in parallel.
 
-- Distance
+- Gain access to more detailed data than Rightmove's standard filters.
 
-- Price range
+- Build a customizable and exportable database of properties for further analysis.
 
-- Number of bedrooms
+### Search filters
 
-- Property type
+- Search radius
+- Max price
+- Minimum number of bedrooms
+- Maximum London zone from centre (e.g., Zone 3)
+- Number of concurrent searches
+- (Optional) List of stations to search (if empty all stations will be searched)
 
-# Unique Features
+### Unique features extracted
 
 What sets this web scraper apart is its ability to extract detailed and granular property information that is not typically provided in bulk by Rightmove's interface. Key features include:
 
@@ -26,7 +31,7 @@ What sets this web scraper apart is its ability to extract detailed and granular
 
 - Square Metres: Gather data on the property's size.
 
-- Distance from Tube/Train Station: Determine proximity to public transportation.
+- Distance from closest Tube/Train Station: Determine proximity to public transportation.
 
 - Latest Activity: Identify when the property was last updated, such as:
 
@@ -34,50 +39,26 @@ What sets this web scraper apart is its ability to extract detailed and granular
 
     - When the price was last reduced.
 
-# Output
+- Price
 
-The scraper outputs the results in the form of a data frame, which can be exported as a CSV file. This makes it easy to build a structured database of properties and filter them more effectively than the Rightmove interface allows. Users can sort and analyze the data based on their specific requirements, including filtering by tenancy type or proximity to transport hubs.
+- Zone of Tube station
 
-# Benefits
+- Number of bedrooms
 
-- Save time by automating property searches across multiple locations.
+- Number of bathrooms
 
-- Gain access to more detailed data than Rightmove's standard filters.
 
-- Build a customizable and exportable database of properties for further analysis.
+## Get started
 
-# Usage
+### Prerequisites
+- Python (we recommend >= 3.12)
+- Chrome browser
 
-- 1. Clone this repository to your local machine.
-
-- 2. Customize the script with your search parameters:
-
-    - Location(s)
-
-    - Distance range
-
-    - Price range
-
-    - Number of bedrooms
-
-    - Property type
-
-- 3. Run the script to scrape data.
-
-- 4. Export the results as a CSV for analysis.
-
-## Requirements
-
-- Python 3.7
-- `requests` library
-- `beautifulsoup4` library
-- `pandas` library
-
-## Installation
+### Installation
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/rightmove_scraper.git
+    git clone https://github.com/cjboisvert/rightmove_scraper.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -88,14 +69,25 @@ The scraper outputs the results in the form of a data frame, which can be export
     pip install -r requirements.txt
     ```
 
-## Usage
+### Usage
 
-1. Update the search parameters in `config.py`.
+1. Update the search parameters in [config.py](config.py). 
+
+    - Search radius
+    - Max price
+    - Minimum number of bedrooms
+    - Maximum London zone from centre (e.g., Zone 3)
+    - Number of concurrent searches
+    - (Optional) List of stations to search (if empty all stations will be searched)
+
 2. Run the scraper:
     ```sh
-    python scraper.py
+    python main.py
     ```
-3. The scraped data will be saved to `output.csv`.
+3. The scraped properties will be saved to [database.csv](database.csv), which contains a row for each found property that meets the desired criteria.
+
+4. To update the database, simply run the scraper again. This will update the [database.csv](database.csv) file.
+
 
 ## Contributing
 

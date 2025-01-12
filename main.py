@@ -4,9 +4,9 @@ import pandas as pd
 from tqdm import tqdm
 
 from config import config
-from functions_search import search_retry
-from functions_rightmove import get_property_info_retry
-from utils import convert_prop_search_to_dicts, update_database
+from src.functions_search import search_retry
+from src.functions_rightmove import get_property_info_retry
+from src.utils import convert_prop_search_to_dicts, update_database
 
 
 if __name__ == "__main__":

@@ -3,13 +3,13 @@ from selenium import webdriver
 import time
 from typing import List
 
-from functions_rightmove import (
+from src.functions_rightmove import (
     reject_cookies,
     search_station_for_sale,
     set_filters,
     get_property_links,
 )
-from utils import retry_function
+from src.utils import retry_function
 
 
 def search_retry(

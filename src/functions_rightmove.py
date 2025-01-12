@@ -11,7 +11,7 @@ from selenium.webdriver.support.ui import Select, WebDriverWait
 import time
 from typing import List
 
-from utils import retry_function
+from src.utils import retry_function
 
 
 def reject_cookies(driver: WebDriver) -> None:
