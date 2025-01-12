@@ -8,31 +8,31 @@ This repository contains a Python script for automating property searches on Rig
 
 The scraper allows users to search across multiple locations simultaneously and is fully customizable based on criteria like:
 
--- Location
+- Location
 
--- Distance
+- Distance
 
--- Price range
+- Price range
 
--- Number of bedrooms
+- Number of bedrooms
 
--- Property type
+- Property type
 
 # Unique Features
 
 ## What sets this web scraper apart is its ability to extract detailed and granular property information that is not typically provided in bulk by Rightmove's interface. Key features include:
 
--- Tenancy Type: Extract whether the property is freehold or leasehold.
+- Tenancy Type: Extract whether the property is freehold or leasehold.
 
--- Square Metres: Gather data on the property's size.
+- Square Metres: Gather data on the property's size.
 
--- Distance from Tube/Train Station: Determine proximity to public transportation.
+- Distance from Tube/Train Station: Determine proximity to public transportation.
 
--- Latest Activity: Identify when the property was last updated, such as:
+- Latest Activity: Identify when the property was last updated, such as:
 
---- The posting date.
+    - The posting date.
 
---- When the price was last reduced.
+    - When the price was last reduced.
 
 # Output
 
@@ -40,31 +40,31 @@ The scraper outputs the results in the form of a data frame, which can be export
 
 # Benefits
 
--- Save time by automating property searches across multiple locations.
+- Save time by automating property searches across multiple locations.
 
--- Gain access to more detailed data than Rightmove's standard filters.
+- Gain access to more detailed data than Rightmove's standard filters.
 
--- Build a customizable and exportable database of properties for further analysis.
+- Build a customizable and exportable database of properties for further analysis.
 
 # Usage
 
--- 1. Clone this repository to your local machine.
+- 1. Clone this repository to your local machine.
 
--- 2. Customize the script with your search parameters:
+- 2. Customize the script with your search parameters:
 
---- Location(s)
+    - Location(s)
 
---- Distance range
+    - Distance range
 
---- Price range
+    - Price range
 
---- Number of bedrooms
+    - Number of bedrooms
 
---- Property type
+    - Property type
 
--- 3. Run the script to scrape data.
+- 3. Run the script to scrape data.
 
--- 4. Export the results as a CSV for analysis.
+- 4. Export the results as a CSV for analysis.
 
 ## Requirements
 
