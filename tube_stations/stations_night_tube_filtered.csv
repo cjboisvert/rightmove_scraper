@@ -1,160 +1,93 @@
-,station_id,latitude,longitude,name,zone,stepfree,stepfree_interchange,line,line_name
-1,500,51.5028,-0.2801,Acton Town,3.0,1,1,10,Piccadilly Line
-9,508,51.5653,-0.1353,Archway,2.5,0,0,9,Northern Line
-10,509,51.6164,-0.1331,Arnos Grove,4.0,0,0,10,Piccadilly Line
-11,510,51.5586,-0.1059,Arsenal,2.0,0,0,10,Piccadilly Line
-15,511,51.5226,-0.1571,Baker Street,1.0,0,0,7,Jubilee Line
-17,512,51.4431,-0.1525,Balham,3.0,0,0,9,Northern Line
-18,513,51.5133,-0.0886,Bank,1.0,0,0,2,Central Line
-21,513,51.5133,-0.0886,Bank,1.0,0,0,9,Northern Line
-28,515,51.5856,0.0887,Barkingside,5.0,0,0,2,Central Line
-30,516,51.4905,-0.2139,Barons Court,2.0,0,1,10,Piccadilly Line
-34,519,51.5504,-0.1642,Belsize Park,2.0,0,0,9,Northern Line
-35,787,51.4979,-0.0637,Bermondsey,2.0,1,1,7,Jubilee Line
-39,522,51.5867,-0.0417,Blackhorse Road,3.0,0,0,11,Victoria Line
-40,524,51.5142,-0.1494,Bond Street,1.0,1,1,2,Central Line
-41,524,51.5142,-0.1494,Bond Street,1.0,1,1,7,Jubilee Line
-43,526,51.4956,-0.325,Boston Manor,4.0,0,0,10,Piccadilly Line
-44,527,51.6071,-0.1243,Bounds Green,3.5,0,0,10,Piccadilly Line
-47,529,51.5766,-0.2136,Brent Cross,3.0,0,0,9,Northern Line
-48,778,51.4627,-0.1145,Brixton,2.0,1,1,11,Victoria Line
-51,531,51.6266,0.0471,Buckhurst Hill,5.0,1,1,2,Central Line
-52,532,51.6028,-0.2641,Burnt Oak,4.0,0,0,9,Northern Line
-53,534,51.5481,-0.1188,Caledonian Road,2.0,1,1,10,Piccadilly Line
-54,535,51.5392,-0.1426,Camden Town,2.0,0,1,9,Northern Line
-55,788,51.4982,-0.0502,Canada Water,2.0,1,1,7,Jubilee Line
-56,852,51.5051,-0.0209,Canary Wharf,2.0,1,1,7,Jubilee Line
-57,884,51.5147,0.0082,Canning Town,3.0,1,1,7,Jubilee Line
-60,537,51.6078,-0.2947,Canons Park,5.0,0,0,7,Jubilee Line
-62,540,51.5441,-0.1538,Chalk Farm,2.0,0,0,9,Northern Line
-63,541,51.5185,-0.1111,Chancery Lane,1.0,0,0,2,Central Line
-65,718,51.508,-0.1247,Charing Cross,1.0,0,0,9,Northern Line
-67,544,51.6177,0.0755,Chigwell,5.0,0,0,2,Central Line
-73,550,51.6517,-0.1496,Cockfosters,5.0,1,1,10,Piccadilly Line
-74,551,51.5955,-0.2502,Colindale,4.0,0,0,9,Northern Line
-75,552,51.418,-0.1778,Colliers Wood,3.0,0,0,9,Northern Line
-76,553,51.5129,-0.1243,Covent Garden,1.0,0,0,10,Piccadilly Line
-80,557,51.6455,0.0838,Debden,6.0,0,0,2,Central Line
-81,558,51.552,-0.2387,Dollis Hill,3.0,0,0,7,Jubilee Line
-82,560,51.5152,-0.3017,Ealing Broadway,3.0,1,1,2,Central Line
-87,562,51.492,-0.1973,Earl's Court,1.5,1,1,10,Piccadilly Line
-88,563,51.5168,-0.2474,East Acton,2.0,0,0,2,Central Line
-89,565,51.5874,-0.165,East Finchley,3.0,0,0,9,Northern Line
-95,568,51.6137,-0.275,Edgware,5.0,1,1,9,Northern Line
-106,542,51.5074,-0.1223,Embankment,1.0,0,0,9,Northern Line
-107,572,51.6937,0.1139,Epping,6.0,1,1,2,Central Line
-108,574,51.5282,-0.1337,Euston,1.0,0,0,9,Northern Line
-109,574,51.5282,-0.1337,Euston,1.0,0,0,11,Victoria Line
-113,576,51.596,0.0912,Fairlop,5.0,0,0,2,Central Line
-117,578,51.6012,-0.1932,Finchley Central,4.0,1,1,9,Northern Line
-118,579,51.5472,-0.1803,Finchley Road,2.0,0,1,7,Jubilee Line
-120,580,51.5642,-0.1065,Finsbury Park,2.0,1,1,10,Piccadilly Line
-121,580,51.5642,-0.1065,Finsbury Park,2.0,1,1,11,Victoria Line
-123,582,51.5765,0.0663,Gants Hill,4.0,0,0,2,Central Line
-126,583,51.4945,-0.1829,Gloucester Road,1.0,0,0,10,Piccadilly Line
-127,584,51.5724,-0.1941,Golders Green,3.0,1,1,9,Northern Line
-130,586,51.5205,-0.1347,Goodge Street,1.0,0,0,9,Northern Line
-131,587,51.6132,0.0923,Grange Hill,5.0,0,0,2,Central Line
-135,590,51.5067,-0.1428,Green Park,1.0,1,1,7,Jubilee Line
-136,590,51.5067,-0.1428,Green Park,1.0,1,1,10,Piccadilly Line
-137,590,51.5067,-0.1428,Green Park,1.0,1,1,11,Victoria Line
-140,592,51.603,0.0933,Hainault,5.0,1,1,2,Central Line
-144,593,51.4936,-0.2251,Hammersmith,2.0,1,1,10,Piccadilly Line
-145,594,51.5568,-0.178,Hampstead,2.5,0,0,9,Northern Line
-150,779,51.4669,-0.4227,Hatton Cross,5.5,0,0,10,Piccadilly Line
-151,781,51.4598,-0.4476,Heathrow Terminal 4,6.0,1,1,10,Piccadilly Line
-152,783,51.4723,-0.488,Heathrow Terminal 5,6.0,1,1,10,Piccadilly Line
-153,780,51.4713,-0.4524,Heathrow Terminals 123,6.0,1,1,10,Piccadilly Line
-154,601,51.5829,-0.2259,Hendon Central,3.5,1,1,9,Northern Line
-155,602,51.6503,-0.1943,High Barnet,5.0,1,1,9,Northern Line
-158,603,51.546,-0.104,Highbury & Islington,2.0,0,0,11,Victoria Line
-159,604,51.5777,-0.1458,Highgate,3.0,0,0,9,Northern Line
-162,607,51.5174,-0.12,Holborn,1.0,0,0,2,Central Line
-163,607,51.5174,-0.12,Holborn,1.0,0,0,10,Piccadilly Line
-164,608,51.5075,-0.206,Holland Park,2.0,0,0,2,Central Line
-165,609,51.5526,-0.1132,Holloway Road,2.0,0,0,10,Piccadilly Line
-167,611,51.4713,-0.3665,Hounslow Central,4.0,0,0,10,Piccadilly Line
-168,612,51.4733,-0.3564,Hounslow East,4.0,1,1,10,Piccadilly Line
-169,613,51.4734,-0.3855,Hounslow West,5.0,1,1,10,Piccadilly Line
-170,614,51.5027,-0.1527,Hyde Park Corner,1.0,0,0,10,Piccadilly Line
-173,616,51.4884,-0.1053,Kennington,2.0,0,1,9,Northern Line
-176,619,51.5507,-0.1402,Kentish Town,2.0,0,0,9,Northern Line
-179,622,51.5471,-0.2047,Kilburn,2.0,1,1,7,Jubilee Line
-184,625,51.5308,-0.1238,King's Cross St. Pancras,1.0,1,1,9,Northern Line
-185,625,51.5308,-0.1238,King's Cross St. Pancras,1.0,1,1,10,Piccadilly Line
-186,625,51.5308,-0.1238,King's Cross St. Pancras,1.0,1,1,11,Victoria Line
-187,624,51.5846,-0.2786,Kingsbury,4.0,1,1,7,Jubilee Line
-188,626,51.5015,-0.1607,Knightsbridge,1.0,0,0,10,Piccadilly Line
-192,629,51.5119,-0.1756,Lancaster Gate,1.0,0,0,2,Central Line
-195,631,51.5113,-0.1281,Leicester Square,1.0,0,0,9,Northern Line
-196,631,51.5113,-0.1281,Leicester Square,1.0,0,0,10,Piccadilly Line
-199,634,51.5178,-0.0823,Liverpool Street,1.0,0,0,2,Central Line
-203,635,51.5052,-0.0864,London Bridge,1.0,1,1,7,Jubilee Line
-204,635,51.5052,-0.0864,London Bridge,1.0,1,1,9,Northern Line
-205,636,51.6412,0.0558,Loughton,6.0,0,0,2,Central Line
-207,638,51.5712,-0.0958,Manor House,2.5,0,0,10,Piccadilly Line
-210,640,51.5136,-0.1586,Marble Arch,1.0,0,0,2,Central Line
-212,642,51.5249,-0.0332,Mile End,2.0,0,1,2,Central Line
-215,643,51.6082,-0.2103,Mill Hill East,4.0,1,1,9,Northern Line
-221,647,51.4022,-0.1948,Morden,4.0,1,1,9,Northern Line
-222,648,51.5342,-0.1387,Mornington Crescent,2.0,0,0,9,Northern Line
-223,649,51.5542,-0.2503,Neasden,3.0,0,0,7,Jubilee Line
-224,650,51.5756,0.0899,Newbury Park,4.0,1,1,2,Central Line
-225,653,51.5237,-0.2597,North Acton,2.5,0,0,2,Central Line
-227,789,51.5005,0.0039,North Greenwich,2.5,1,1,7,Jubilee Line
-230,655,51.4995,-0.3142,Northfields,3.0,0,0,10,Piccadilly Line
-235,663,51.5094,-0.1967,Notting Hill Gate,1.5,0,0,2,Central Line
-238,664,51.6476,-0.1318,Oakwood,5.0,1,1,10,Piccadilly Line
-240,667,51.4813,-0.3522,Osterley,4.0,0,0,10,Piccadilly Line
-241,668,51.4819,-0.113,Oval,2.0,0,0,9,Northern Line
-243,669,51.515,-0.1415,Oxford Circus,1.0,0,0,2,Central Line
-253,674,51.5098,-0.1342,Piccadilly Circus,1.0,0,0,10,Piccadilly Line
-254,776,51.4893,-0.1334,Pimlico,1.0,0,0,11,Victoria Line
-261,679,51.5942,-0.2861,Queensbury,4.0,0,0,7,Jubilee Line
-262,681,51.5107,-0.1877,Queensway,1.0,0,0,2,Central Line
-266,684,51.5763,0.0454,Redbridge,4.0,0,0,2,Central Line
-270,688,51.6171,0.0439,Roding Valley,5.0,1,1,2,Central Line
-278,694,51.523,-0.1244,Russell Square,1.0,0,0,10,Piccadilly Line
-279,698,51.5822,-0.0749,Seven Sisters,3.0,0,0,11,Victoria Line
-280,700,51.5046,-0.2187,Shepherd's Bush,2.0,0,0,2,Central Line
-285,703,51.5808,0.0216,Snaresbrook,4.0,0,0,2,Central Line
-286,704,51.5011,-0.3072,South Ealing,3.0,0,0,10,Piccadilly Line
-290,708,51.4941,-0.1738,South Kensington,1.0,0,0,10,Piccadilly Line
-293,711,51.4154,-0.1919,South Wimbledon,3.5,0,0,9,Northern Line
-294,712,51.5917,0.0275,South Woodford,4.0,1,1,2,Central Line
-296,706,51.6322,-0.128,Southgate,4.0,0,0,10,Piccadilly Line
-297,784,51.501,-0.1052,Southwark,1.0,1,1,7,Jubilee Line
-300,696,51.5347,-0.174,St. John's Wood,2.0,0,0,7,Jubilee Line
-301,697,51.5146,-0.0973,St. Paul's,1.0,0,0,2,Central Line
-303,714,51.6194,-0.3028,Stanmore,5.0,1,1,7,Jubilee Line
-306,716,51.4723,-0.123,Stockwell,2.0,0,1,9,Northern Line
-307,716,51.4723,-0.123,Stockwell,2.0,0,1,11,Victoria Line
-309,719,51.5416,-0.0042,Stratford,3.0,1,1,2,Central Line
-310,719,51.5416,-0.0042,Stratford,3.0,1,1,7,Jubilee Line
-313,723,51.5432,-0.1738,Swiss Cottage,2.0,0,0,7,Jubilee Line
-316,725,51.6717,0.1033,Theydon Bois,6.0,0,0,2,Central Line
-317,726,51.4361,-0.1598,Tooting Bec,3.0,0,0,9,Northern Line
-318,727,51.4275,-0.168,Tooting Broadway,3.0,0,0,9,Northern Line
-319,728,51.5165,-0.131,Tottenham Court Road,1.0,1,1,2,Central Line
-320,728,51.5165,-0.131,Tottenham Court Road,1.0,1,1,9,Northern Line
-322,730,51.6302,-0.1791,Totteridge & Whetstone,4.0,0,0,9,Northern Line
-325,733,51.5567,-0.1374,Tufnell Park,2.0,0,0,9,Northern Line
-327,735,51.5904,-0.1028,Turnpike Lane,3.0,0,0,10,Piccadilly Line
-335,777,51.4861,-0.1253,Vauxhall,1.5,1,1,11,Victoria Line
-338,741,51.4965,-0.1447,Victoria,1.0,1,1,11,Victoria Line
-339,742,51.583,-0.0195,Walthamstow Central,3.0,0,0,11,Victoria Line
-340,743,51.5775,0.0288,Wanstead,4.0,0,0,2,Central Line
-341,745,51.5247,-0.1384,Warren Street,1.0,0,0,9,Northern Line
-342,745,51.5247,-0.1384,Warren Street,1.0,0,0,11,Victoria Line
-345,747,51.5036,-0.1143,Waterloo,1.0,1,1,7,Jubilee Line
-346,747,51.5036,-0.1143,Waterloo,1.0,1,1,9,Northern Line
-350,752,51.5635,-0.2795,Wembley Park,4.0,1,1,7,Jubilee Line
-352,753,51.518,-0.2809,West Acton,3.0,0,0,2,Central Line
-354,756,51.6095,-0.1883,West Finchley,4.0,1,1,9,Northern Line
-358,758,51.5469,-0.1906,West Hampstead,2.0,0,0,7,Jubilee Line
-366,761,51.501,-0.1254,Westminster,1.0,1,1,7,Jubilee Line
-367,764,51.512,-0.2239,White City,2.0,0,0,2,Central Line
-370,765,51.5492,-0.2215,Willesden Green,2.5,0,0,7,Jubilee Line
-374,770,51.5975,-0.1097,Wood Green,3.0,0,0,10,Piccadilly Line
-377,769,51.607,0.0341,Woodford,4.0,1,1,2,Central Line
-378,771,51.6179,-0.1856,Woodside Park,4.0,1,1,9,Northern Line
+,station_id,latitude,longitude,name,zone,stepfree,stepfree_interchange,line,line_name,flooding
+1,500,51.5028,-0.2801,Acton Town,3,1,1,10,Piccadilly Line,0
+9,508,51.5653,-0.1353,Archway,2.5,0,0,9,Northern Line,0
+15,511,51.5226,-0.1571,Baker Street,1,0,0,7,Jubilee Line,0
+17,512,51.4431,-0.1525,Balham,3,0,0,9,Northern Line,0
+21,513,51.5133,-0.0886,Bank,1,0,0,9,Northern Line,0
+30,516,51.4905,-0.2139,Barons Court,2,0,1,10,Piccadilly Line,1
+34,519,51.5504,-0.1642,Belsize Park,2,0,0,9,Northern Line,0
+39,522,51.5867,-0.0417,Blackhorse Road,3,0,0,11,Victoria Line,0
+41,524,51.5142,-0.1494,Bond Street,1,1,1,7,Jubilee Line,0
+43,526,51.4956,-0.325,Boston Manor,4,0,0,10,Piccadilly Line,0
+44,527,51.6071,-0.1243,Bounds Green,3.5,0,0,10,Piccadilly Line,0
+47,529,51.5766,-0.2136,Brent Cross,3,0,0,9,Northern Line,0
+48,778,51.4627,-0.1145,Brixton,2,1,1,11,Victoria Line,0
+53,534,51.5481,-0.1188,Caledonian Road,2,1,1,10,Piccadilly Line,0
+54,535,51.5392,-0.1426,Camden Town,2,0,1,9,Northern Line,0
+55,788,51.4982,-0.0502,Canada Water,2,1,1,7,Jubilee Line,1
+56,852,51.5051,-0.0209,Canary Wharf,2,1,1,7,Jubilee Line,1
+62,540,51.5441,-0.1538,Chalk Farm,2,0,0,9,Northern Line,0
+63,541,51.5185,-0.1111,Chancery Lane,1,0,0,2,Central Line,0
+65,718,51.508,-0.1247,Charing Cross,1,0,0,9,Northern Line,0
+72,545,51.4946,-0.2678,Chiswick Park,3,0,0,4,District Line,0
+75,552,51.418,-0.1778,Colliers Wood,3,0,0,9,Northern Line,0
+76,553,51.5129,-0.1243,Covent Garden,1,0,0,10,Piccadilly Line,0
+82,560,51.5152,-0.3017,Ealing Broadway,3,1,1,2,Central Line,0
+87,562,51.492,-0.1973,Earl's Court,1.5,1,1,10,Piccadilly Line,0
+88,563,51.5168,-0.2474,East Acton,2,0,0,2,Central Line,0
+89,565,51.5874,-0.165,East Finchley,3,0,0,9,Northern Line,0
+106,542,51.5074,-0.1223,Embankment,1,0,0,9,Northern Line,0
+109,574,51.5282,-0.1337,Euston,1,0,0,11,Victoria Line,0
+118,579,51.5472,-0.1803,Finchley Road,2,0,1,7,Jubilee Line,0
+120,580,51.5642,-0.1065,Finsbury Park,2,1,1,10,Piccadilly Line,0
+126,583,51.4945,-0.1829,Gloucester Road,1,0,0,10,Piccadilly Line,0
+127,584,51.5724,-0.1941,Golders Green,3,1,1,9,Northern Line,0
+130,586,51.5205,-0.1347,Goodge Street,1,0,0,9,Northern Line,0
+136,590,51.5067,-0.1428,Green Park,1,1,1,10,Piccadilly Line,0
+144,593,51.4936,-0.2251,Hammersmith,2,1,1,10,Piccadilly Line,1
+145,594,51.5568,-0.178,Hampstead,2.5,0,0,9,Northern Line,0
+154,601,51.5829,-0.2259,Hendon Central,3.5,1,1,9,Northern Line,0
+158,603,51.546,-0.104,Highbury & Islington,2,0,0,11,Victoria Line,0
+159,604,51.5777,-0.1458,Highgate,3,0,0,9,Northern Line,0
+163,607,51.5174,-0.12,Holborn,1,0,0,10,Piccadilly Line,0
+164,608,51.5075,-0.206,Holland Park,2,0,0,2,Central Line,0
+165,609,51.5526,-0.1132,Holloway Road,2,0,0,10,Piccadilly Line,0
+170,614,51.5027,-0.1527,Hyde Park Corner,1,0,0,10,Piccadilly Line,0
+173,616,51.4884,-0.1053,Kennington,2,0,1,9,Northern Line,0
+176,619,51.5507,-0.1402,Kentish Town,2,0,0,9,Northern Line,0
+179,622,51.5471,-0.2047,Kilburn,2,1,1,7,Jubilee Line,0
+185,625,51.5308,-0.1238,King's Cross St. Pancras,1,1,1,10,Piccadilly Line,0
+188,626,51.5015,-0.1607,Knightsbridge,1,0,0,10,Piccadilly Line,0
+192,629,51.5119,-0.1756,Lancaster Gate,1,0,0,2,Central Line,0
+196,631,51.5113,-0.1281,Leicester Square,1,0,0,10,Piccadilly Line,0
+199,634,51.5178,-0.0823,Liverpool Street,1,0,0,2,Central Line,0
+204,635,51.5052,-0.0864,London Bridge,1,1,1,9,Northern Line,1
+207,638,51.5712,-0.0958,Manor House,2.5,0,0,10,Piccadilly Line,0
+210,640,51.5136,-0.1586,Marble Arch,1,0,0,2,Central Line,0
+222,648,51.5342,-0.1387,Mornington Crescent,2,0,0,9,Northern Line,0
+225,653,51.5237,-0.2597,North Acton,2.5,0,0,2,Central Line,0
+230,655,51.4995,-0.3142,Northfields,3,0,0,10,Piccadilly Line,0
+235,663,51.5094,-0.1967,Notting Hill Gate,1.5,0,0,2,Central Line,0
+241,668,51.4819,-0.113,Oval,2,0,0,9,Northern Line,1
+243,669,51.515,-0.1415,Oxford Circus,1,0,0,2,Central Line,0
+253,674,51.5098,-0.1342,Piccadilly Circus,1,0,0,10,Piccadilly Line,0
+254,776,51.4893,-0.1334,Pimlico,1,0,0,11,Victoria Line,1
+262,681,51.5107,-0.1877,Queensway,1,0,0,2,Central Line,0
+278,694,51.523,-0.1244,Russell Square,1,0,0,10,Piccadilly Line,0
+279,698,51.5822,-0.0749,Seven Sisters,3,0,0,11,Victoria Line,0
+280,700,51.5046,-0.2187,Shepherd's Bush,2,0,0,2,Central Line,0
+286,704,51.5011,-0.3072,South Ealing,3,0,0,10,Piccadilly Line,0
+290,708,51.4941,-0.1738,South Kensington,1,0,0,10,Piccadilly Line,0
+293,711,51.4154,-0.1919,South Wimbledon,3.5,0,0,9,Northern Line,0
+297,784,51.501,-0.1052,Southwark,1,1,1,7,Jubilee Line,1
+300,696,51.5347,-0.174,St. John's Wood,2,0,0,7,Jubilee Line,0
+301,697,51.5146,-0.0973,St. Paul's,1,0,0,2,Central Line,0
+307,716,51.4723,-0.123,Stockwell,2,0,1,11,Victoria Line,0
+313,723,51.5432,-0.1738,Swiss Cottage,2,0,0,7,Jubilee Line,0
+317,726,51.4361,-0.1598,Tooting Bec,3,0,0,9,Northern Line,0
+318,727,51.4275,-0.168,Tooting Broadway,3,0,0,9,Northern Line,0
+320,728,51.5165,-0.131,Tottenham Court Road,1,1,1,9,Northern Line,0
+325,733,51.5567,-0.1374,Tufnell Park,2,0,0,9,Northern Line,0
+326,734,51.4951,-0.2547,Turnham Green,2.5,0,0,10,Piccadilly Line,0
+327,735,51.5904,-0.1028,Turnpike Lane,3,0,0,10,Piccadilly Line,0
+335,777,51.4861,-0.1253,Vauxhall,1.5,1,1,11,Victoria Line,1
+338,741,51.4965,-0.1447,Victoria,1,1,1,11,Victoria Line,0
+339,742,51.583,-0.0195,Walthamstow Central,3,0,0,11,Victoria Line,0
+342,745,51.5247,-0.1384,Warren Street,1,0,0,11,Victoria Line,0
+345,747,51.5036,-0.1143,Waterloo,1,1,1,7,Jubilee Line,1
+352,753,51.518,-0.2809,West Acton,3,0,0,2,Central Line,0
+358,758,51.5469,-0.1906,West Hampstead,2,0,0,7,Jubilee Line,0
+366,761,51.501,-0.1254,Westminster,1,1,1,7,Jubilee Line,0
+367,764,51.512,-0.2239,White City,2,0,0,2,Central Line,0
+370,765,51.5492,-0.2215,Willesden Green,2.5,0,0,7,Jubilee Line,0
+374,770,51.5975,-0.1097,Wood Green,3,0,0,10,Piccadilly Line,0

@@ -26,11 +26,13 @@ if __name__ == "__main__":
     # --- GET LIST OF STATIONS ---
     # If stations are not provided in the config file,
     # load them from the stations file and search for all night tube stations
+    stations_df = pd.read_csv("tube_stations/stations_night_tube_filtered.csv")
     if stations is None:
-        stations_df = pd.read_csv("tube_stations/stations_night_tube_filtered.csv")
         # Filter stations by zone
         stations_zone_df = stations_df[stations_df["zone"] <= max_zone]
         stations = stations_zone_df["name"].unique().tolist()
+    else:
+        stations_zone_df = stations_df[stations_df["name"].isin(stations)]
 
     # --- SEARCH FOR PROPERTIES NEAR STATIONS IN PARALLEL ---
     # Run the search function for stations in parallel using ThreadPoolExecutor

@@ -192,10 +192,18 @@ def get_property_info(property_link_dict: dict) -> str:
         else:
             date = None
 
-    distance_closest = driver.find_elements(
-        By.CSS_SELECTOR, "div.mlEuHXZpfrrzJtwlRmwBe"
-    )[0].text
-    distance_number = distance_closest.split("\n")[1].replace(" miles", "")
+    # Click the stations button
+    stations_button = WebDriverWait(driver, 10).until(
+        EC.element_to_be_clickable((By.ID, "Stations-button"))
+    )
+    stations_button.click()
+    time.sleep(1)
+
+    distance_closest = driver.find_element(
+        By.CSS_SELECTOR, "div.mlEuHXZpfrrzJtwlRmwBe > span._1ZY603T1ryTT3dMgGkM7Lg"
+    )
+
+    distance_number = distance_closest.text.replace(" miles", "")
 
     # Get property type, number of bedrooms, number of bathrooms, size, and tenancy type
     elements = driver.find_elements(By.CSS_SELECTOR, "p._1hV1kqpVceE9m-QrX_hWDN")

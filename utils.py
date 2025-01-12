@@ -57,30 +57,25 @@ def update_database(property_infos: List[Dict]) -> None:
     # Remove duplicates and keep properties with the shortest distance to the closest station
     logger.info("Removing duplicate properties and keeping the closest to the station")
     property_infos_filtered = [p for p in property_infos if p is not None]
-    property_infos_no_duplicates = []
-    for p1 in property_infos_filtered:
-        p_min_distance = deepcopy(p1)
-        for p2 in property_infos_filtered:
-            if (
-                p_min_distance["link"] == p2["link"]
-                and p2["distance_to_closest_station"]
-                < p_min_distance["distance_to_closest_station"]
-            ):
-                p_min_distance = deepcopy(p2)
-
-        property_infos_no_duplicates.append(p_min_distance)
 
     if os.path.exists("database.csv"):
         # Load the existing database
         db = pd.read_csv("database.csv")
-        new_db = pd.DataFrame(property_infos_no_duplicates)
+        new_db = pd.DataFrame(property_infos_filtered)
+
+        # Remove rows with duplicate 'link' and keep the row with the minimum 'distance'
+        new_db = new_db.loc[
+            new_db.groupby("link")["distance_to_closest_station"].idxmin()
+        ]
 
         for _, new_row in new_db.iterrows():
             db = db[db["link"] != new_row["link"]]  # Remove duplicates
             db = db._append(new_row, ignore_index=True)  # Add new row
 
     else:
-        db = pd.DataFrame(property_infos_no_duplicates)
+        db = pd.DataFrame(property_infos_filtered)
+        # Remove rows with duplicate 'link' and keep the row with the minimum 'distance'
+        db = db.loc[db.groupby("link")["distance_to_closest_station"].idxmin()]
 
     # Save the database
     db = db.sort_values(by=["station", "price"], ascending=True)
