@@ -20,7 +20,7 @@ The scraper allows users to search across multiple locations simultaneously and 
 
 # Unique Features
 
-## What sets this web scraper apart is its ability to extract detailed and granular property information that is not typically provided in bulk by Rightmove's interface. Key features include:
+What sets this web scraper apart is its ability to extract detailed and granular property information that is not typically provided in bulk by Rightmove's interface. Key features include:
 
 - Tenancy Type: Extract whether the property is freehold or leasehold.
 
